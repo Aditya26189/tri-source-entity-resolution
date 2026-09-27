@@ -1,17 +1,17 @@
 {
  "France": {
-  "pairs_pruned": 3792617,
-  "per_s1": 14.62,
+  "pairs_pruned": 3835398,
+  "per_s1": 14.78,
   "N": 8
  },
  "India": {
-  "pairs_pruned": 11997666,
-  "per_s1": 14.81,
+  "pairs_pruned": 12322545,
+  "per_s1": 15.21,
   "N": 8
  },
  "US": {
-  "pairs_pruned": 9932336,
-  "per_s1": 14.98,
+  "pairs_pruned": 9913031,
+  "per_s1": 14.95,
   "N": 8
  }
 }
